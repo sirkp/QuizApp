@@ -38,5 +38,5 @@ A quiz app for multiple choice questions developed on Django.
   `python manage.py runserver` 
  
 5) ### Reference
-  [tomwalker's](https://github.com/tomwalker) quiz app[here](https://github.com/tomwalker/django_quiz)
+  [tomwalker's](https://github.com/tomwalker) [quiz app](https://github.com/tomwalker/django_quiz)
   
