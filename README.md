@@ -1,9 +1,14 @@
-# django-quiz-app
+# QuizApp
 A quiz app for multiple choice questions developed on Django.
 
 
 ### Snaps of project 
   
+  ![](screenshots/login.png)
+  
+  ![](screenshots/quiz_page.png)
+  
+  ![](screenshots/results.png)
 # Instructions 
 
 1) ### Installations
